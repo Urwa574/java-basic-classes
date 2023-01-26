@@ -19,6 +19,7 @@ public class doWhileLoops {
             System.out.println("Please Enter a number");
             num1= scanner.nextInt();
         }
+
     }
 }
 

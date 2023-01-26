@@ -5,7 +5,7 @@ public class ForLoop3 {
         for (int num=1;num<20;num++){
             if (num%3!=0){
                 System.out.println(num);
-            }
+            } // \n for next line
         }
     }
 }
